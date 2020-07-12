@@ -1,3 +1,5 @@
+**Note: This is a specially modified fork version for personal use !!!** 
+
 # Slim
 
 Slim is a minimal, clean and beautiful theme for [Hugo](http://gohugo.io/).
